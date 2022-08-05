@@ -1,0 +1,12 @@
+﻿CREATE DATABASE testdb;
+
+USE testdb;
+
+CREATE TABLE `User` (
+    `Id` int NOT NULL AUTO_INCREMENT,
+    `Nome` VARCHAR(100) CHARACTER SET utf8mb4 NULL,
+    `Email` VARCHAR(100) CHARACTER SET utf8mb4 NULL,
+    `CreatedAt` TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP,
+    `UpdateAt` datetime(6) NULL,
+    CONSTRAINT `PK_Users` PRIMARY KEY (`Id`)
+) CHARACTER SET utf8mb4;

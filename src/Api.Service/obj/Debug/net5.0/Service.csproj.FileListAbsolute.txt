@@ -1,0 +1,12 @@
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\Service.deps.json
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\Service.dll
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\ref\Service.dll
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\Service.pdb
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.dll
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\ref\Service.dll
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.pdb

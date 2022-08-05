@@ -1,0 +1,12 @@
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Domain\bin\Debug\net5.0\Domain.deps.json
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Domain\bin\Debug\net5.0\Domain.dll
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Domain\bin\Debug\net5.0\Domain.pdb
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Domain\obj\Debug\net5.0\Domain.dll
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Domain\obj\Debug\net5.0\Domain.pdb
