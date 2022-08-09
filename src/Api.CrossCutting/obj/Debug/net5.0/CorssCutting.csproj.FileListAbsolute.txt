@@ -9,3 +9,4 @@ D:\workspace-dotnet\cursoApiNetCore\src\Api.CrossCutting\obj\Debug\net5.0\CorssC
 D:\workspace-dotnet\cursoApiNetCore\src\Api.CrossCutting\obj\Debug\net5.0\CorssCutting.dll
 D:\workspace-dotnet\cursoApiNetCore\src\Api.CrossCutting\obj\Debug\net5.0\ref\CorssCutting.dll
 D:\workspace-dotnet\cursoApiNetCore\src\Api.CrossCutting\obj\Debug\net5.0\CorssCutting.pdb
+D:\workspace-dotnet\cursoApiNetCore\src\Api.CrossCutting\obj\Debug\net5.0\CorssCutting.csproj.AssemblyReference.cache
