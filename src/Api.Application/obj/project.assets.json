@@ -283,6 +283,16 @@
           "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
+      "CorssCutting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CorssCutting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CorssCutting.dll": {}
+        }
+      },
       "Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -306,6 +316,21 @@
         },
         "runtime": {
           "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CorssCutting": "1.0.0",
+          "Data": "1.0.0",
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
         }
       }
     }
@@ -853,6 +878,11 @@
         "version.txt"
       ]
     },
+    "CorssCutting/1.0.0": {
+      "type": "project",
+      "path": "../Api.CrossCutting/CorssCutting.csproj",
+      "msbuildProject": "../Api.CrossCutting/CorssCutting.csproj"
+    },
     "Data/1.0.0": {
       "type": "project",
       "path": "../Api.Data/Data.csproj",
@@ -862,11 +892,19 @@
       "type": "project",
       "path": "../Api.Domain/Domain.csproj",
       "msbuildProject": "../Api.Domain/Domain.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Api.Service/Service.csproj",
+      "msbuildProject": "../Api.Service/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "CorssCutting >= 1.0.0",
       "Data >= 1.0.0",
+      "Domain >= 1.0.0",
+      "Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -905,8 +943,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "D:\\workspace-dotnet\\cursoApiNetCore\\src\\Api.CrossCutting\\CorssCutting.csproj": {
+              "projectPath": "D:\\workspace-dotnet\\cursoApiNetCore\\src\\Api.CrossCutting\\CorssCutting.csproj"
+            },
             "D:\\workspace-dotnet\\cursoApiNetCore\\src\\Api.Data\\Data.csproj": {
               "projectPath": "D:\\workspace-dotnet\\cursoApiNetCore\\src\\Api.Data\\Data.csproj"
+            },
+            "D:\\workspace-dotnet\\cursoApiNetCore\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "D:\\workspace-dotnet\\cursoApiNetCore\\src\\Api.Domain\\Domain.csproj"
+            },
+            "D:\\workspace-dotnet\\cursoApiNetCore\\src\\Api.Service\\Service.csproj": {
+              "projectPath": "D:\\workspace-dotnet\\cursoApiNetCore\\src\\Api.Service\\Service.csproj"
             }
           }
         }

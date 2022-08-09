@@ -1,10 +1,3 @@
-D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.csproj.AssemblyReference.cache
-D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.GeneratedMSBuildEditorConfig.editorconfig
-D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.AssemblyInfoInputs.cache
-D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.AssemblyInfo.cs
-D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.csproj.CoreCompileInputs.cache
-D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.MvcApplicationPartsAssemblyInfo.cs
-D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.MvcApplicationPartsAssemblyInfo.cache
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\bin\Debug\net5.0\appsettings.Development.json
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\bin\Debug\net5.0\appsettings.json
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\bin\Debug\net5.0\application.exe
@@ -29,6 +22,13 @@ D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\bin\Debug\net5.0\Data.dl
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\bin\Debug\net5.0\Domain.dll
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\bin\Debug\net5.0\Data.pdb
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\bin\Debug\net5.0\Domain.pdb
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.csproj.AssemblyReference.cache
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.AssemblyInfoInputs.cache
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.AssemblyInfo.cs
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.csproj.CoreCompileInputs.cache
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.MvcApplicationPartsAssemblyInfo.cs
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.MvcApplicationPartsAssemblyInfo.cache
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\staticwebassets\application.StaticWebAssets.Manifest.cache
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\staticwebassets\application.StaticWebAssets.xml
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\scopedcss\bundle\application.styles.css
@@ -38,3 +38,7 @@ D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\applica
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\ref\application.dll
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.pdb
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\obj\Debug\net5.0\application.genruntimeconfig.cache
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\bin\Debug\net5.0\CorssCutting.dll
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\bin\Debug\net5.0\Service.dll
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\bin\Debug\net5.0\Service.pdb
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Application\bin\Debug\net5.0\CorssCutting.pdb

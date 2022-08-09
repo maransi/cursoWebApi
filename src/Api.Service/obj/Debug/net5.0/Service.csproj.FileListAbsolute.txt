@@ -2,7 +2,6 @@ D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\Service.dep
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\Service.dll
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\ref\Service.dll
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\Service.pdb
-D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
@@ -10,3 +9,11 @@ D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.csp
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.dll
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\ref\Service.dll
 D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.pdb
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\CorssCutting.dll
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\Data.dll
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\Domain.dll
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\Domain.pdb
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\Data.pdb
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\bin\Debug\net5.0\CorssCutting.pdb
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+D:\workspace-dotnet\cursoApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.csproj.CopyComplete
